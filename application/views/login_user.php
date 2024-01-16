@@ -141,7 +141,7 @@
                                 <label for="password"><i class="zmdi zmdi-lock"></i></label>
                                 <input type="password" name="password" id="password" placeholder="Password" />
                             </div>
-                            <div class="g-recaptcha" data-sitekey="6Lf2PVEpAAAAAGLeJIlJKRM6GvcYUETLPiI3a2qY"></div>
+                            <div class="g-recaptcha" data-sitekey=""></div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" />
                             </div>
